@@ -16,6 +16,6 @@ Website: franciscopereira.dev (Coming soon!)
 
 📫 Let's connect!
 
-LinkedIn: linkedin.com/in/francisco-pereira-dev
+LinkedIn: [francisco-pereira-dev](https://www.linkedin.com/in/francisco-pereira-dev/)
 
 Location: Figueira da Foz, Portugal 📍
