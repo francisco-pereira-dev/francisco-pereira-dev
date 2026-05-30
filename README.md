@@ -2,20 +2,14 @@
 
 I am a Computer Engineering student from Portugal who enjoys writing clean code and building full-stack applications.
 
-🛠️ What I work with
+### 🛠️ What I work with
+* **Languages & Web:** Java, C#, PHP, JavaScript/TypeScript, Vue.js, HTML/CSS
+* **Systems & Data:** Docker, SQL (MySQL/PostgreSQL), OutSystems
+* **Interests:** Full-Stack Development, Backend Architecture, and Local AI (Ollama)
 
-Languages & Web: Java, C#, PHP, JavaScript/TypeScript, Vue.js, HTML/CSS.
+### 🌐 Portfolio & Projects
+* **Website:** [franciscopereira.dev](https://franciscopereira.dev)
 
-Systems & Data: Docker, SQL (MySQL/PostgreSQL), OutSystems.
-
-Interests: Full-Stack Development, Backend Architecture, and Local AI (Ollama).
-
-🌐 Portfolio & Projects
-
-Website: franciscopereira.dev (Coming soon!)
-
-📫 Let's connect!
-
-LinkedIn: [francisco-pereira-dev](https://www.linkedin.com/in/francisco-pereira-dev/)
-
-Location: Figueira da Foz, Portugal 📍
+### 📫 Let's connect!
+* **LinkedIn:** [francisco-pereira-dev](https://www.linkedin.com/in/francisco-pereira-dev/)
+* **Location:** Figueira da Foz, Portugal 📍
